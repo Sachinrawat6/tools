@@ -142,5 +142,41 @@
         "lastScanner": "Vikas Kumar",
         "createdTime": "26-03-2025 14:07:01",
         "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 231183,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Mahesh",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 231188,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Subhas",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 23118,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Shan",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 231187,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Satpal",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
     }
 ]
