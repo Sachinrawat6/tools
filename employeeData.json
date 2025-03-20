@@ -179,5 +179,23 @@
         "lastScanner": "Upendra",
         "createdTime": "26-03-2025 14:08:01",
         "lastScanTime": "27-03-2025 14:01:01"
+    },
+    {
+        "orderNumber": 2314,
+        "channel": "Tatacliq",
+        "styleNumber": 15020,
+        "size": "2XL",
+        "lastScanner": "Upendra",
+        "createdTime": "26-03-2025 14:08:01",
+        "lastScanTime": "27-03-2025 14:01:01"
+    },
+    {
+        "orderNumber": 237854,
+        "channel": "Tatacliq",
+        "styleNumber": 16020,
+        "size": "2XL",
+        "lastScanner": "Upendra",
+        "createdTime": "26-03-2025 14:08:01",
+        "lastScanTime": "27-03-2025 14:01:01"
     }
 ]
